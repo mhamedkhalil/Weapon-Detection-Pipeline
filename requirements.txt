@@ -1,0 +1,10 @@
+numpy
+opencv-python
+matplotlib
+scikit-image
+scikit-learn
+xgboost
+ultralytics
+pandas
+glob2
+jupyter

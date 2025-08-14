@@ -40,6 +40,7 @@ Clone this repository:
 ```bash
 git clone https://github.com/mhamedkhalil/Weapon-Detection-Pipeline.git
 cd Weapon-Detection-Pipeline
+```
 
 ## Dependencies
 
